@@ -1,0 +1,26 @@
+{
+    "author": "yuri@galanter.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "meyer-objects-js",
+    "pebble": {
+        "displayName": "Meyer Objects JS",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "0f9b79b1-afac-47ac-bc0f-d80390915888",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
